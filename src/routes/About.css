@@ -1,0 +1,12 @@
+.forDesk {
+  width: 1280px;
+  background-color: red;
+}
+.forTab {
+  width: 1024px;
+  background-color: blue;
+}
+.forMob {
+  width: 414px;
+  background-color: coral;
+}
